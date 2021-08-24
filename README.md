@@ -6,8 +6,6 @@ Source of Dataset : ourworldindata.org
 
 The main country to compare is Indonesia to other country about the rate of eating fruits from 1961 until 2017.
 
-Based on the status quo right now where Covid become such pandemic in the world until this day, i mention one research journal that found people eating behavior in pandemic era.
-Most likely they rather to eat stimulus food such chocolate and decrease the behavior of eating healthy food such like vegetables or fruit.
 Based on the data until 2017, Indonesia having the most lowest comparison of eating fruits rate. as shown below : 
 
 ![image](https://user-images.githubusercontent.com/54882818/130562450-54f8e659-fad0-41c0-a680-6720dd4da533.png)
@@ -24,11 +22,13 @@ If we tried to compare to other nation across the ASIA-EUROPE it shows that, Ind
 
 But, it's still very low compared to other South East Asia Countries and moreover much more low compare to Europe Country.
 
+Based on the status quo right now where Covid become such pandemic in the world until this day, i mention one research journal that found people eating behavior in pandemic era.
+Most likely they rather to eat stimulus food such chocolate and decrease the behavior of eating healthy food such like vegetables or fruit.
 While the other country in Europe such Italy, the rate of fruit consumption is indirectly decreased beyond 2019-2021 due to the covid. As shown below :
 
 ![image](https://user-images.githubusercontent.com/54882818/130561882-c5c702bc-0571-4262-9b32-43a3e2f185f7.png)
 
-Author of Journal by Federico Scarmozzino and Francesco Visioli [Filename = foods-09-00675.pdf] [link = https://www.mdpi.com/2304-8158/9/5/675]
+Author of Journal by Federico Scarmozzino and Francesco Visioli [Filename = foods-09-00675.pdf] [link = 'https://www.mdpi.com/2304-8158/9/5/675']
 
 The conclusion of analytics are, Indonesia has very low Fruit Consumption compare to their neighborhood but having increase trends that last long for decades. This potential may a good oppurtunity to develop such Application to vary the fruit consumption using differents cooking method, Especially on Indonesia and China where the population is very dense.
 But, in the other hand in this pandemic era the rate of Fruit Consumption in europe countries such italy(a country which having the most highest average of Fruit Consumption since 2017) is decreased which also raised the oppurtunity of this Apps to help people find healthy food with fun.
