@@ -9,7 +9,9 @@ The main country to compare is Indonesia to other country about the rate of eati
 Based on the status quo right now where Covid become such pandemic in the world until this day, i mention one research journal that found people eating behavior in pandemic era.
 Most likely they rather to eat stimulus food such chocolate and decrease the behavior of eating healthy food such like vegetables or fruit.
 Based on the data until 2017, Indonesia having the most lowest comparison of eating fruits rate. as shown below : 
+
 ![image](https://user-images.githubusercontent.com/54882818/130562450-54f8e659-fad0-41c0-a680-6720dd4da533.png)
+
 compare to any country near indonesia in South East Asia, the average rate of indonesia fruit consumption are considered very low. But, as shown below : 
 
 ![image](https://user-images.githubusercontent.com/54882818/130562570-1b0490fe-2784-409b-b00f-62dc7ef2d88e.png)
