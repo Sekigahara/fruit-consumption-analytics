@@ -12,6 +12,6 @@ Based on the data until 2017, Indonesia having the most lowest comparison of eat
 
 ![image](https://user-images.githubusercontent.com/54882818/130561882-c5c702bc-0571-4262-9b32-43a3e2f185f7.png)
 
-
+Author of Journal by Federico Scarmozzino and Francesco Visioli [Filename = foods-09-00675.pdf] [link = https://www.mdpi.com/2304-8158/9/5/675]
 
 The Application which curently my teams developed are relevant to every condition in almost every country right now. The hope of the application not only educate but also encourage people to eat healthy food to fight the pandemic.
