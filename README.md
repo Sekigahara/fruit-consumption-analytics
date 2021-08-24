@@ -15,11 +15,13 @@ Based on the data until 2017, Indonesia having the most lowest comparison of eat
 compare to any country near indonesia in South East Asia, the average rate of indonesia fruit consumption are considered very low. But, as shown below : 
 
 ![image](https://user-images.githubusercontent.com/54882818/130562570-1b0490fe-2784-409b-b00f-62dc7ef2d88e.png)
-Indonesia(blue line) Fruit Consumption is always increasing and in the near of 2000 the trend increase goes much more higher than before.
+
+Indonesia(blue line) Fruit Consumption is always increasing and in the near of 2000 the trend increases goes much more higher than before.
 
 If we tried to compare to other nation across the ASIA-EUROPE it shows that, Indonesia is not a very least country in average of Fruit Consumption, as shown below : 
 
 ![image](https://user-images.githubusercontent.com/54882818/130562917-33168e1a-beba-410a-a986-0fff4f117a6b.png)
+
 But, it's still very low compared to other South East Asia Countries and moreover much more low compare to Europe Country.
 
 While the other country in Europe such Italy, the rate of fruit consumption is indirectly decreased beyond 2019-2021 due to the covid. As shown below :
